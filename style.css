@@ -1,0 +1,34 @@
+. {
+ margin: 0px;
+}
+div{
+  margin-left: 45%;
+ }
+section{
+  background-color: antiquewhite;
+  padding: 10px;
+  width: 250px;
+}
+#input_txt{
+ height: 30px;
+ width: 200px;
+ front_weight: bolder;
+}
+#add_txt{
+ height: 30px;
+ background-color: green;
+ border: none;
+ color: #fff;
+}
+ul{
+list-style-type: none;
+padding: 0px;
+ width: 240px;
+}
+li{
+width: 100%;
+background-color: #efd039;
+color: #4d42ab;
+padding: 10px 15px;
+border-top: 1px solid #000;
+}
